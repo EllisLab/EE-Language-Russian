@@ -97,7 +97,7 @@ $lang = array(
 
 'no_messages' =>
 'Нет сообщений',
-'messages_percent_full' => 
+'messages_percent_full' =>
 'Ваши папки заполнены на {lang:usage_percent}%',
 
 'messages_folder' => 
@@ -177,7 +177,7 @@ $lang = array(
 
 'message_subject' =>
 'Тема',
-'message' => 
+'message' =>
 'Сообщение',
 
 'smileys' => 
@@ -284,8 +284,8 @@ $lang = array(
 
 'search_results' =>
 'Результаты поиска',
-'insert_member_instructions' => 
-'Нажмите на имя участника, чтобы выбрать его',
+'insert_member_instructions' =>
+'Нажмите на имя участника, чтобы внести его в Список игнорирования',
 
 'description_charlimit' => 
 '(менее 50 символов)',

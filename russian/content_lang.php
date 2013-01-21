@@ -3,7 +3,7 @@ $lang = array(
 
 
 'url_title_is_index' => 
-'URL-заголовок не может называться \\\\"index\\\\"',
+' URL-заголовок не может называться \\\\"index\\\\"',
 
 'no_related_entries' => 
 'Нет записей для этого связанного блога',
@@ -384,7 +384,7 @@ $lang = array(
 'Авторы',
 
 'fields' => 
-'Поля ввода',
+'Поля',
 
 'publish_layout' => 
 'Создать макет',
@@ -641,10 +641,10 @@ $lang = array(
 'view_filtered' => 
 'Вернитесь к фильтруемым записям',
 
-'publish_another_entry' => 
+'publish_another_entry' =>
 'Публиковать ещё одну запись',
 
-'autosaved_entries' => 
+'autosaved_entries' =>
 'Автосохраненные записи',
 
 'autosaved' => 
@@ -1065,7 +1065,7 @@ $lang = array(
 'Невозможно загрузить требуемый файл вкладки: %s',
 
 'unable_to_load_field_type' => 
-'Невозможно загрузить требуемый файл nbпа поля:  %s.<br />Проверьте что файл типа поля находится в директории expressionengine/third_party/',
+'Unable to load requested field type file:  %s.<br />Confirm the fieldtype file is located in the expressionengine/third_party/ directory',
 
 'no_templates' => 
 'Нет шаблонов',
@@ -1113,7 +1113,7 @@ $lang = array(
 'Форумы',
 
 'translate' => 
-'Обновить',
+'Update',
 
 ''=>''
 );

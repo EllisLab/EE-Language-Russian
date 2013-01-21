@@ -3,7 +3,11 @@ Russian Translation Pack for ExpressionEngine 2.x
 =================================================
 
 | Copyright (C) 2009-2013 EllisLab, Inc.
-| Original Russian translation provided by: FDCore Studio fdcore.ru and Russian ExpressionEngine community eeclub.ru
+| Original Russian translation provided by: 
+
+- Advance Translation advance-translation.com
+- FDCore Studio fdcore.com
+- Russian ExpressionEngine Community eeclub.ru
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

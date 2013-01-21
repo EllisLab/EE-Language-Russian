@@ -47,6 +47,9 @@ $lang = array(
 'view_cp_log' => 
 'Просмотр журнала ПУ',
 
+'view_developer_log' => 
+'Журнал разработчика',
+
 'import_utilities' => 
 'Утилиты импорта',
 
@@ -140,8 +143,8 @@ $lang = array(
 'trans_file_not_writable' => 
 'Файл перевода не имеет прав на запись.',
 
-'import_from_mt' => 
-'Утилита импорта из Movable Type',
+'logs_deleted' => 
+'Логи удалены',
 
 'member_import' => 
 'Утилита импорта участников',
@@ -173,11 +176,41 @@ $lang = array(
 'translation_dir_unwritable' => 
 'Внимание! Директория перевода защищена от записи.',
 
+'log_id' => 
+'ID Лога',
+
+'log_message' => 
+'Сообщение',
+
+'deprecated_function' => 
+'Вызвана устаревшая функция %s',
+
+'deprecated_on_line' => 
+'в %s на строчке %d',
+
+'deprecated_since' => 
+'Устарела начиная с %s.',
+
+'deprecated_use_instead' => 
+'Взамен используйте %.',
+
+'deprecation_detected' => 
+'Система обнаружила дополнения, которые используют устаревший код, который может перестать работать или привести к проблемам с системой.',
+
+'dev_log_view_report' => 
+'Посмотреть отчёт',
+
+'dev_log_help' => 
+'Что это значит?',
+
+'deprecated_meaning' => 
+'',
+
 'screen_name' => 
 'Псевдоним',
 
 'translate' => 
-'Update',
+'Обновить',
 
 ''=>''
 );

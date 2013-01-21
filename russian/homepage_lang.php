@@ -159,7 +159,7 @@ $lang = array(
 'Вы имеете %d не просмотреных записей в <a href="%s">Журнале Разработчика</a>.',
 
 'version_mismatch' => 
-'',
+'Ваша версия (%s) установки не соответствует указанной версии (%s). <a href="http://ellislab.com/expressionengine/user-guide/installation/update.html">Пожалуйста обновите ваш инсталятор ExpressionEngine ещё раз</a>.',
 
 'translate' => 
 'Обновить',

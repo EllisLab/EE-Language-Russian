@@ -559,7 +559,7 @@ $lang = array(
 
 'mbr_field_invalid' =>
 'Следующее поле содержит недопустимый выбор:',
-'mbr_username_length' => 
+'mbr_username_length' =>
 'Имена пользователей должны состоять, как минимум, из %x символов',
 
 'mbr_password_length' => 
@@ -615,7 +615,7 @@ $lang = array(
 
 'mbr_submit' =>
 'Отправить',
-'mbr_join_date' => 
+'mbr_join_date' =>
 'Дата регистрации',
 
 'mbr_total_entries' => 
@@ -719,7 +719,7 @@ $lang = array(
 
 'mbr_icq' =>
 'ICQ:',
-'mbr_yahoo' => 
+'mbr_yahoo' =>
 'Yahoo Messenger',
 
 'mbr_msn' => 
@@ -865,7 +865,7 @@ $lang = array(
 
 'member_search' =>
 'Поиск участника',
-'any' => 
+'any' =>
 'Все',
 
 'search_results' => 

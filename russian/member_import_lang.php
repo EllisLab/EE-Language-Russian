@@ -175,7 +175,7 @@ $lang = array(
 
 'timezone' =>
 'Часовой пояс по умолчанию',
-'member_fields' => 
+'member_fields' =>
 'Поля участника',
 
 'member_id_warning' => 

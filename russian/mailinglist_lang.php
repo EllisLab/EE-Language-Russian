@@ -8,6 +8,9 @@ $lang = array(
 'mailinglist_module_description' => 
 'Менеджер рассылок',
 
+'email' => 
+'Email Адрес',
+
 'mailinglist_disabled' => 
 'В настоящее время нет приема новых подписчиков на рассылку.',
 
@@ -166,7 +169,7 @@ $lang = array(
 
 'ml_emails_deleted' =>
 'Адреса электронной почты были удалены',
-'ml_missing_email' => 
+'ml_missing_email' =>
 'Необходимо ввести адрес E-mail',
 
 'ml_invalid_email' => 
@@ -227,7 +230,7 @@ $lang = array(
 'Следующие адреса не могут быть импортированы:',
 
 'translate' => 
-'Update',
+'Обновить',
 
 ''=>''
 );

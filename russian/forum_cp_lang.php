@@ -385,7 +385,7 @@ $lang = array(
 
 'forum_member_group' =>
 'Группа пользователей',
-'forum_find_user' => 
+'forum_find_user' =>
 'Найти пользователя',
 
 'forum_permission' => 
@@ -393,7 +393,7 @@ $lang = array(
 
 'forum_value' =>
 'Значение',
-'mod_can_edit' => 
+'mod_can_edit' =>
 'Могут редактировать ответы',
 
 'mod_can_move' => 
@@ -635,7 +635,7 @@ $lang = array(
 
 'invalid_theme_path' =>
 'Серверный путь к папке с темой, является ошибочным.',
-'invalid_upload_path' => 
+'invalid_upload_path' =>
 'Неправильный путь на сервере к директории для загрузки изображений.',
 
 'unwritable_upload_path' => 
@@ -748,7 +748,7 @@ $lang = array(
 
 'forum_admin_type' =>
 'Тип администратора',
-'forum_individual' => 
+'forum_individual' =>
 'Пользователь',
 
 'forum_group' => 

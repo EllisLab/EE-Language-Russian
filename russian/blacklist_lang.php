@@ -75,7 +75,7 @@ $lang = array(
 'IP-адрес',
 
 'ref_user_agent' => 
-'User Agent',
+'Браузер',
 
 'ref_url' => 
 'URL',
@@ -87,7 +87,7 @@ $lang = array(
 'В базе данных нет таблицы черного списка',
 
 'translate' => 
-'Update',
+'Обновить',
 
 ''=>''
 );

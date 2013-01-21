@@ -37,7 +37,7 @@ $lang = array(
 
 'invalid_access' =>
 'Отказ в доступе',
-'entry_uneditable' => 
+'entry_uneditable' =>
 'Вы не можете редактировать эту запись. Проверьте наличие соответствующих разрешений для группы участников.',
 
 'no_metaweblog_configs' => 

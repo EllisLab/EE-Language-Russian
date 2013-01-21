@@ -238,7 +238,7 @@ $lang = array(
 
 'logged_in_as' =>
 'Войти под логином:',
-'private_message' => 
+'private_message' =>
 'Личные сообщения',
 
 'unread_pm' => 
@@ -525,7 +525,7 @@ $lang = array(
 
 'topic_no_exists' =>
 'Извините, данная тема форума не существует',
-'thread_no_exists' => 
+'thread_no_exists' =>
 'Указанная тема не существует',
 
 'topic_title' => 
@@ -764,7 +764,7 @@ $lang = array(
 
 'legend_hot_topic' =>
 'Популярная тема с новыми сообщениями',
-'legend_hot_old_topic' => 
+'legend_hot_old_topic' =>
 'Популярная тема без новых сообщений',
 
 'legend_moved_topic' => 
@@ -910,7 +910,7 @@ $lang = array(
 
 'file_size' =>
 'Размер файла:',
-'allowed_mimes' => 
+'allowed_mimes' =>
 'Разрешенные типы файлов:',
 
 'member_profile' => 
@@ -1075,9 +1075,9 @@ $lang = array(
 'older' => 
 'Старые',
 
-'sort_results_by' => 
+'sort_results_by' =>
 'Сортировать результаты по',
-'descending' => 
+'descending' =>
 'Убыванию',
 
 'ascending' => 
